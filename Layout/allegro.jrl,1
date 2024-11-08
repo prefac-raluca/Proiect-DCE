@@ -1,0 +1,166 @@
+\t (00:00:27) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:27)     Journal start - Tue May 14 16:38:55 2024
+\t (00:00:27)         Host=DESKTOP-I9LQJ1R User=DELL 0490 Pid=2388 CPUs=8
+\t (00:00:27) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:27) 
+\d (00:00:27) Design opened: E:/PROIECT1/P1_2023_431C_Prefac_Raluca_SERS_N8_OrCAD/Layout/P1_SERS_PREFAC RALUCA_431C.brd
+\i (00:00:27) generaledit 
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 23.9547 4.0973
+\i (00:00:29) trapsize 1402
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 23.9827 4.0974
+\i (00:00:29) trapsize 701
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 23.9827 4.0974
+\i (00:00:31) trapsize 1402
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 23.9827 4.0974
+\i (00:00:32) trapsize 2805
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 3.7327 32.8737
+\i (00:00:33) trapsize 1402
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 3.7327 32.8738
+\i (00:00:33) trapsize 701
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 3.5224 32.5933
+\i (00:00:33) trapsize 1402
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 13.2547 36.8845
+\i (00:00:41) trapsize 2805
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 25.5954 5.1352
+\i (00:00:42) trapsize 1402
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 25.5955 5.1353
+\i (00:00:43) trapsize 701
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 19.5794 8.2485
+\i (00:00:46) trapsize 1402
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 17.6161 9.1460
+\i (00:00:47) trapsize 2805
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 11.3336 12.0069
+\i (00:00:47) trapsize 5609
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -3.6997 32.6496
+\i (00:00:47) trapsize 2805
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 0.7318 34.2203
+\i (00:00:48) trapsize 1402
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 0.7879 34.3886
+\i (00:00:49) trapsize 701
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 2.2604 31.0650
+\i (00:00:51) trapsize 1402
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 2.2605 31.0650
+\i (00:00:51) trapsize 2805
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 1.9800 28.2604
+\i (00:00:52) trapsize 5609
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -0.6003 12.3295
+\i (00:00:52) trapsize 2805
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -0.6003 12.2735
+\i (00:00:52) trapsize 1402
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 1.2228 15.7233
+\i (00:00:53) trapsize 2805
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 7.5615 22.5669
+\i (00:00:53) trapsize 5609
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 7.7859 38.2733
+\i (00:00:54) trapsize 11219
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 7.7860 38.2733
+\i (00:00:54) trapsize 22438
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 71.3698 38.2732
+\i (00:00:54) trapsize 29945
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 8.9949 11.4073
+\i (00:00:55) trapsize 14972
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -17.9551 50.3353
+\i (00:00:56) trapsize 7486
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in -9.4209 32.3686
+\i (00:00:57) trapsize 3743
+\i (00:01:00) cmgr 
+\i (00:01:00) generaledit 
+\i (00:01:02) setwindow cmgr
+\i (00:01:02) cm exit
+\i (00:01:03) setwindow pcb
+\i (00:01:03) color192 
+\i (00:01:03) generaledit 
+\i (00:01:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:01:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:01:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:01:09) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:01:21) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 39.7630 19.5673
+\i (00:01:22) trapsize 7486
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 6.2252 19.5674
+\i (00:01:23) trapsize 3743
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 31.3037 18.9686
+\i (00:01:24) trapsize 1872
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in 20.7857 21.7759
+\i (00:01:25) trapsize 936
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 20.7670 21.7947
+\i (00:01:26) trapsize 1872
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 20.7671 21.7946
+\i (00:01:26) trapsize 3743
+\i (00:04:17) exit 
+\e (00:04:17) Do you want to save the changes you made to P1_SERS_PREFAC RALUCA_431C.brd?
+\i (00:04:19) fillin yes 
+   (00:04:19) Loading consmgr.cxt 
+   (00:04:19) Loading acns_formula.cxt 
+\t (00:04:20)     Journal end - Tue May 14 16:42:48 2024

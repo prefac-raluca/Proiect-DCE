@@ -1,0 +1,35 @@
+\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Thu May 30 00:22:16 2024
+\t (00:00:07)         Host=DESKTOP-I9LQJ1R User=DELL 0490 Pid=13976 CPUs=8
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:08) trapsize 703
+\i (00:00:08) trapsize 720
+\i (00:00:08) trapsize 1179
+\i (00:00:08) generaledit 
+\i (00:00:12) open 
+\i (00:00:14) fillin "P1_SERS_PREFAC RALUCA_431C.brd"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 3743
+\d (00:00:15) Design opened: E:/PROIECT1/P1_2023_431C_Prefac_Raluca_SERS_N8_OrCAD/Layout/P1_SERS_PREFAC RALUCA_431C.brd
+\i (00:00:15) generaledit 
+\i (00:00:17) cmgr 
+\i (00:00:18) generaledit 
+\i (00:00:26) setwindow cmgr
+\i (00:00:26) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:27) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:27) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:27) cm expand ( row ( Design "P1_SERS_PREFAC RALUCA_431C" ) )
+\i (00:00:27) cm expand ( row ( Design "P1_SERS_PREFAC RALUCA_431C" ) )
+\i (00:00:27) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:00:32) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:32) cm exit
+\i (00:00:33) setwindow pcb
+\i (00:00:33) exit 
+\e (00:00:33) Do you want to save the changes you made to P1_SERS_PREFAC RALUCA_431C.brd?
+\i (00:00:35) fillin yes 
+   (00:00:36) Loading consmgr.cxt 
+   (00:00:36) Loading acns_formula.cxt 
+\t (00:00:36)     Journal end - Thu May 30 00:22:46 2024

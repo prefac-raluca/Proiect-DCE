@@ -1,0 +1,270 @@
+(ExpressProject "P1_SERS_Prefac Raluca_431C"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\new folder\anl_misc.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bc807-25.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bc817-25.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bc846b.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bc856b.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\breakout.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c2v7.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c5v1.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c5v6.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c6v2.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c6v8.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\bzx84c10.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\cd4000.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_abm.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_ecl.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_gal.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_misc.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_pal.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\dig_prim.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\eval.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\evalaa.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\evalp.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\irfr120npbf.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\ltspicedevices.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\mjd31cg.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\mjd32cg.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\mmbfj177lt1g.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\mmbfj309lt1g.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\source.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\sourcstm.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\special.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\1n4148.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74ac.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74act.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74als.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74as.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74f.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74h.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74hc.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74hct.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74l.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74ls.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\74s.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\7400.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\abm.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\analog.olb"
+        (Type "Schematic Library"))
+      (File ".\new folder\analog_p.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\p1_sers_prefac raluca_431c.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "allegro\P1_SERS_PREFAC RALUCA_431C.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "E:\PROIECT1\P1_SERS_PREFAC RALUCA_431C.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "E:\PROIECT1\P1_SERS_PREFAC RALUCA_431C.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "E:\PROIECT1\P1_SERS_PREFAC RALUCA_431C.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    ("Allegro Netlist Input Board File"
+       "E:\PROIECT1\allegro\P1_SERS_PREFAC RALUCA_431C.brd"))
+  (Folder "Outputs"
+    (File ".\p1_sers_prefac raluca_431c.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\p1_sers_prefac raluca_431c.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (1N4148
+      (FullPartName "1N4148.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\EDIODE.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BZX84C2V7/ZTX
+      (FullPartName "BZX84C2V7/ZTX.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ZETEX.OLB")
+      (DeviceIndex "0"))
+    (BZX84C2V7/SOT
+      (FullPartName "BZX84C2V7/SOT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BZX84C2V7/PLP
+      (FullPartName "BZX84C2V7/PLP.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\PHIL_DIODE.OLB")
+      (DeviceIndex "0"))
+    (BZX84C27V/PLP
+      (FullPartName "BZX84C27V/PLP.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\PHIL_DIODE.OLB")
+      (DeviceIndex "0"))
+    (BZX84C27/ZTX
+      (FullPartName "BZX84C27/ZTX.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ZETEX.OLB")
+      (DeviceIndex "0"))
+    (BZX84C27/SOT
+      (FullPartName "BZX84C27/SOT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (QMJD31C
+      (FullPartName "QMJD31C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\MJD31CG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "DELL 0490")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Outputs"
+         "e:\proiect1\p1_2023_431c_prefac_raluca_sers_n8_orcad\schematics\p1_sers_prefac raluca_431c.bom"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 282"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1427 130 451")
+        (Scroll "-139 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PROIECT1\P1_2023_431C_PREFAC_RALUCA_SERS_N8_ORCAD\SCHEMATICS\P1_SERS_PREFAC RALUCA_431C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1375 78 399"))
+      (Path
+         "e:\proiect1\p1_2023_431c_prefac_raluca_sers_n8_orcad\schematics\p1_sers_prefac raluca_431c.bom")
+      (Scroll "0"))))
